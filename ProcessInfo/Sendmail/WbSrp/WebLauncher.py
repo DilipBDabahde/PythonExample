@@ -1,5 +1,6 @@
 '''
 Automation script which accept file name. Extract all URLs from that file and connect to that URLs
+for this file use we have to provide url 
 '''
 
 import sys
